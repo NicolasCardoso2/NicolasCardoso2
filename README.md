@@ -58,12 +58,6 @@
 
 ---
 
-## 🐍 Snake do Commit
-
-![snake gif](https://github.com/NicolasCardoso2/NicolasCardoso2/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ## 📫 Contato
 
 📧 Email: [nicolascardoso860@gmail.com](mailto:nicolascardoso860@gmail.com)  
