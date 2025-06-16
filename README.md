@@ -49,15 +49,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=NicolasCardoso2&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasCardoso2&layout=compact&theme=tokyonight" />
-</div>
-
----
-
 ## 📫 Contato
 
 📧 Email: [nicolascardoso860@gmail.com](mailto:nicolascardoso860@gmail.com)  
