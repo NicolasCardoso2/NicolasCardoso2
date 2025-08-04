@@ -1,7 +1,7 @@
 <h1 align="center">Olá! Eu sou o Nicolas 👋</h1>
 <p align="center">
   <a href="https://github.com/NicolasCardoso2">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedor+Fullstack+em+formação;Apaixonado+por+tecnologia+e+jogos;Sempre+aprendendo+nova+skills!&center=true&width=500&height=45">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedor+Fullstack+em+formação;Apaixonado+por+tecnologia;Sempre+aprendendo+nova+skills!&center=true&width=500&height=45">
   </a>
 </p>
 
@@ -11,7 +11,7 @@
 
 🎓 Estudante de Engenharia de Software  
 💻 Atualmente desenvolvendo projetos com **NestJS, React.js, Docker e Jenkins**  
-🎯 Interessado em **sistemas web**, **jogos educativos** e **automação com IA**  
+🎯 Interessado em **sistemas web**,  
 📚 Sempre em busca de novos conhecimentos e desafios
 
 ---
@@ -20,7 +20,6 @@
 
 ### 👨‍💻 Linguagens de Programação
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
@@ -52,7 +51,7 @@
 ## 📫 Contato
 
 📧 Email: [nicolascardoso860@gmail.com](mailto:nicolascardoso860@gmail.com)  
-💼 LinkedIn: [linkedin.com/in/nicolas-cardoso](https://www.linkedin.com/in/nicolas-cardoso-2483b1322/) <!-- troque o link -->
+💼 LinkedIn: [linkedin.com/in/nicolas-cardoso](https://www.linkedin.com/in/nicolas-cardoso-vilha-do-lago-2483b1322/) <!-- troque o link -->
 
 ---
 
