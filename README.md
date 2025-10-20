@@ -46,7 +46,6 @@
 ## 🎯 Objetivo
 
 Continuar evoluindo como **desenvolvedor de software**, com foco em criar soluções eficientes, interfaces intuitivas e experiências digitais envolventes.  
-Explorar o **desenvolvimento de jogos**, unindo criatividade, lógica e programação.
 
 ---
 
