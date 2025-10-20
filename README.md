@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/NicolasCardoso2">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedor+de+Software;Futuro+Desenvolvedor+de+Jogos;Apaixonado+por+tecnologia+e+inovação!&center=true&width=500&height=45">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedor+de+Software;Apaixonado+por+tecnologia+e+inovação!&center=true&width=500&height=45">
   </a>
 </p>
 
