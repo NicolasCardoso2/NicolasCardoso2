@@ -44,14 +44,6 @@ Gosto de projetos onde posso cuidar desde a estrutura da API até a experiência
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
----
-
-## Estatísticas
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=NicolasCardoso2&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasCardoso2&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
