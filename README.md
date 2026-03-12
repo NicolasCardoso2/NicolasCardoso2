@@ -1,23 +1,26 @@
-<h1 align="center">Olá, eu sou o Nicolas</h1>
+<h1 align="center">Olá, eu sou o Nicolas 👋</h1>
 
 <p align="center">
   <a href="https://github.com/NicolasCardoso2">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedor+de+Software;Web+e+Desktop;Sempre+aprendendo+e+construindo+projetos&center=true&width=520&height=45">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedor+Full-Stack;Node.js+%7C+React+%7C+TypeScript;Buscando+primeira+oportunidade&center=true&width=520&height=45">
   </a>
+</p>
+
+<p align="center">
+  Desenvolvedor de software baseado em <strong>Rio Negro, PR</strong> — focado em aplicações web com atenção à qualidade do código e boa experiência de uso.
 </p>
 
 ---
 
 ## Sobre mim
 
-Sou desenvolvedor de software com foco em **aplicações web e desktop**.  
-Gosto de transformar ideias em projetos funcionais, com atenção a **organização do código**, **boa experiência de uso** e evolução contínua.
+Sou formado em Engenharia de Software e tenho experiência construindo aplicações **web e desktop** com foco em back-end (Node.js, NestJS) e interfaces modernas com React.
 
-Também tenho interesse em **desenvolvimento de jogos** e venho estudando isso em paralelo, como forma de melhorar lógica, design de interação e criatividade técnica.
+Gosto de projetos onde posso cuidar desde a estrutura da API até a experiência do usuário final.
 
 ---
 
-## Tecnologias e ferramentas
+## Tecnologias
 
 ### Linguagens
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -38,21 +41,21 @@ Também tenho interesse em **desenvolvimento de jogos** e venho estudando isso e
 
 ### Ferramentas
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-## Objetivo
+## Estatísticas
 
-Atuar como **Desenvolvedor de Software Júnior**, contribuindo no desenvolvimento e evolução de **aplicações web e desktop** — com atenção à qualidade, clareza do código e boa experiência para o usuário.
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=NicolasCardoso2&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasCardoso2&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
 ## Contato
 
-Email: [nicolascardoso860@gmail.com](mailto:nicolascardoso860@gmail.com)  
-LinkedIn: [linkedin.com/in/nicolas-cardoso-vilha-do-lago](https://www.linkedin.com/in/nicolas-cardoso-vilha-do-lago-2483b1322/)
-
----
+📧 [nicolascardoso860@gmail.com](mailto:nicolascardoso860@gmail.com)  
+💼 [linkedin.com/in/nicolas-cardoso-vilha-do-lago](https://www.linkedin.com/in/nicolas-cardoso-vilha-do-lago-2483b1322/)
