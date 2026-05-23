@@ -1,11 +1,13 @@
-<div align="center">
+  <div align="center">
 
 # Nicolas Cardoso Vilha do Lago
 
 **Desenvolvedor Full Stack** · Java · Spring Boot · React · TypeScript
 
+<br>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-cardoso-vilha-do-lago/)
-[![Portfolio](https://img.shields.io/badge/Portf%C3%B3lio-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://nicolas-cardoso.netlify.app/)
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://nicolas-cardoso.netlify.app/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nicolascardoso860@gmail.com)
 
 </div>
@@ -16,7 +18,7 @@ Sou desenvolvedor Full Stack com 2 anos de experiência construindo aplicações
 
 Já desenvolvi sistemas de e-commerce, gestão de loja e controle financeiro usados por pessoas reais no dia a dia. Agora busco minha primeira oportunidade em um time de produto para continuar crescendo e contribuindo com software que resolve problemas de verdade.
 
-**Localização:** Rio Negro, PR &nbsp;|&nbsp; **Formação:** Engenharia de Software, Universidade do Contestado (2022–2025) &nbsp;|&nbsp; **Idiomas:** Português nativo, Inglês intermediário
+Rio Negro, PR &nbsp;|&nbsp; Engenharia de Software, Universidade do Contestado (2022–2025) &nbsp;|&nbsp; Português nativo, Inglês intermediário
 
 <br>
 
@@ -70,14 +72,6 @@ Sistema de gestão de loja desenvolvido **sob encomenda para um cliente real**. 
 Tem 114 testes unitários com 97% de cobertura nas regras de negócio. A arquitetura segue Clean Architecture com Mappers, Use Cases e Domain Errors bem definidos.
 
 `TypeScript` `React` `Electron` `SQLite` `Zustand` `TanStack Query` `Vitest`
-
-<br>
-
-### [GameDevManager](https://github.com/NicolasCardoso2/GameDevManager)
-
-Ferramenta para game developers gerenciarem projetos, tarefas e check-ins de progresso diários. Funciona como PWA no navegador e como app nativo no desktop via Tauri, com suporte completo a uso offline e sincronização automática quando a conexão volta.
-
-`React 18` `TypeScript` `Firebase` `Firestore` `Tauri` `Zustand` `TanStack Query` `Zod`
 
 <br>
 
