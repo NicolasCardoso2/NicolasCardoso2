@@ -2,12 +2,10 @@
 
 # Nicolas Cardoso
 
-**Desenvolvedor Full Stack**
+**Desenvolvedor de Software | Java & Spring Boot**
 
-Desenvolvendo aplicações web e desktop com foco em arquitetura de software, qualidade de código e soluções voltadas para problemas reais.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/nicolas-cardoso-vilha-do-lago)
-[![Portfólio](https://img.shields.io/badge/Portfólio-111827?style=for-the-badge\&logo=vercel\&logoColor=white)](https://nicolas-cardoso.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nicolas-cardoso-vilha-do-lago)
+[![Portfólio](https://img.shields.io/badge/Portfólio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://nicolas-cardoso.netlify.app/)
 
 </div>
 
@@ -15,11 +13,11 @@ Desenvolvendo aplicações web e desktop com foco em arquitetura de software, qu
 
 ## Sobre mim
 
-Sou desenvolvedor Full Stack com experiência na construção de aplicações web e desktop, participando de todas as etapas do desenvolvimento, desde a modelagem dos dados até a implantação em produção.
+Sou desenvolvedor de software formado em Engenharia de Software, com experiência em estágio, projetos próprios e trabalhos freelancer.
 
-Tenho experiência com APIs REST, autenticação JWT, testes automatizados, Docker e arquitetura de software. Busco desenvolver aplicações organizadas, fáceis de manter e preparadas para evoluir conforme as necessidades do projeto.
+Tenho foco no desenvolvimento back-end utilizando Java e Spring Boot, além de experiência complementar com React e TypeScript.
 
-Atualmente trabalho principalmente com Java, Spring Boot, TypeScript e React.
+Desenvolvo APIs REST, sistemas web e aplicações desktop, buscando código limpo, organização e boas práticas de arquitetura.
 
 ---
 
@@ -27,29 +25,36 @@ Atualmente trabalho principalmente com Java, Spring Boot, TypeScript e React.
 
 <div align="center">
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+### Front-end Complementar
+
+<div align="center">
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 </div>
 
 ---
 
-## Outras Tecnologias
+## Conhecimentos Complementares
 
 <div align="center">
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=nodedotjs\&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square\&logo=nestjs\&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square\&logo=electron\&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square\&logo=redis\&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square\&logo=sqlite\&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square\&logo=jest\&logoColor=white)
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square\&logo=vitest\&logoColor=white)
-![JUnit5](https://img.shields.io/badge/JUnit_5-25A162?style=flat-square\&logo=junit5\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
 </div>
 
@@ -57,19 +62,23 @@ Atualmente trabalho principalmente com Java, Spring Boot, TypeScript e React.
 
 ## Projetos em Destaque
 
-### E-commerce Full Stack
+### E-commerce Spring Boot
 
-Sistema completo para gerenciamento de produtos, clientes e pedidos.
+Sistema de e-commerce desenvolvido com Java e Spring Boot.
 
 **Principais recursos:**
+- Autenticação JWT
+- Gestão de usuários
+- Gestão de produtos
+- Controle de pedidos
+- Cache com Redis
+- Containerização com Docker
+- Integração entre front-end e back-end
 
-* Autenticação JWT
-* Controle de pedidos
-* Cache com Redis
-* Containerização com Docker
-* Integração entre front-end e back-end
+**Tecnologias:** `Java` `Spring Boot` `Spring Security` `Spring Data JPA` `PostgreSQL` `Redis` `Docker` `React`
 
-**Tecnologias:** `Spring Boot` `React` `PostgreSQL` `Redis` `Docker`
+🔗 [Repositório](https://github.com/seuusuario/ecommerce-spring)  
+🌐 [Demonstração](https://ecommerce-spring.onrender.com)
 
 ---
 
@@ -79,6 +88,8 @@ Sistema desktop para gerenciamento de lojas físicas, desenvolvido para operar l
 
 **Tecnologias:** `React` `Electron` `TypeScript` `SQLite`
 
+🔗 [Repositório](https://github.com/seuusuario/nexloja)
+
 ---
 
 ### Sistema de Gestão Financeira
@@ -87,30 +98,24 @@ Aplicação desktop para controle de despesas, boletos e fluxo financeiro, com a
 
 **Tecnologias:** `Electron` `TypeScript` `SQLite`
 
----
-
-### Task API
-
-API REST para gerenciamento de tarefas com autenticação JWT, persistência relacional e testes automatizados.
-
-**Tecnologias:** `NestJS` `TypeScript` `PostgreSQL`
+🔗 [Repositório](https://github.com/seuusuario/gestao-financeira)
 
 ---
 
-## O Que Você Encontra Aqui
+## Atualmente Estudando
 
-* APIs REST
-* Aplicações Full Stack
-* Sistemas Desktop
-* Testes Automatizados
-* Arquitetura de Software
-* Estudos e Projetos Pessoais
+- Spring Security (aprofundamento)
+- Spring Data JPA (consultas avançadas)
+- GitHub Actions
+- AWS Fundamentals
+- Apache Kafka
+- Kubernetes Fundamentals
 
 ---
 
 ## Objetivos
 
-Atualmente busco oportunidades como Desenvolvedor Back-end ou Full Stack, além de projetos freelance e colaborações em software.
+Atualmente busco oportunidades como **Desenvolvedor Back-end Java** ou **Full Stack**, além de projetos freelance e colaborações em software.
 
 <div align="center">
 
