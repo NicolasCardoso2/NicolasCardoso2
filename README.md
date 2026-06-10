@@ -50,11 +50,10 @@ Desenvolvo APIs REST, sistemas web e aplicações desktop, buscando código limp
 
 <div align="center">
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
 </div>
 
@@ -67,18 +66,15 @@ Desenvolvo APIs REST, sistemas web e aplicações desktop, buscando código limp
 Sistema de e-commerce desenvolvido com Java e Spring Boot.
 
 **Principais recursos:**
-- Autenticação JWT
-- Gestão de usuários
-- Gestão de produtos
-- Controle de pedidos
-- Cache com Redis
-- Containerização com Docker
-- Integração entre front-end e back-end
+- Autenticação JWT com refresh token e controle de acesso por perfil (RBAC)
+- Gestão de usuários, produtos e pedidos
+- Painel administrativo
+- Infraestrutura containerizada com Docker Compose
+- Testes unitários com JUnit 5
 
-**Tecnologias:** `Java` `Spring Boot` `Spring Security` `Spring Data JPA` `PostgreSQL` `Redis` `Docker` `React`
+**Tecnologias:** `Java` `Spring Boot` `Spring Security` `Spring Data JPA` `PostgreSQL` `Docker` `React` `TypeScript`
 
-🔗 [Repositório](https://github.com/seuusuario/ecommerce-spring)  
-🌐 [Demonstração](https://ecommerce-spring.onrender.com)
+🔗 [Repositório](https://github.com/NicolasCardoso2/springboot-ecommerce)
 
 ---
 
@@ -88,24 +84,32 @@ Sistema desktop para gerenciamento de lojas físicas, desenvolvido para operar l
 
 **Tecnologias:** `React` `Electron` `TypeScript` `SQLite`
 
-🔗 [Repositório](https://github.com/seuusuario/nexloja)
+🔗 [Repositório](https://github.com/NicolasCardoso2/nexloja)
 
 ---
 
 ### Sistema de Gestão Financeira
 
-Aplicação desktop para controle de despesas, boletos e fluxo financeiro, com armazenamento local dos dados.
+Sistema desktop para gestão financeira, controle de despesas, boletos e geração de relatórios mensais. Backup local integrado; em uso por empresas reais.
 
-**Tecnologias:** `Electron` `TypeScript` `SQLite`
+**Tecnologias:** `Electron` `JavaScript` `Node.js` `SQLite` `Chart.js`
 
-🔗 [Repositório](https://github.com/seuusuario/gestao-financeira)
+🔗 [Repositório](https://github.com/NicolasCardoso2/gestao-financeira-desktop)
+
+---
+
+### Resume Builder
+
+Web app para criar currículos profissionais com preview ao vivo em tempo real e exportação em PDF.
+
+**Tecnologias:** `JavaScript` `HTML` `CSS`
+
+🔗 [Repositório](https://github.com/NicolasCardoso2/resume-builder)
 
 ---
 
 ## Atualmente Estudando
 
-- Spring Security (aprofundamento)
-- Spring Data JPA (consultas avançadas)
 - GitHub Actions
 - AWS Fundamentals
 - Apache Kafka
